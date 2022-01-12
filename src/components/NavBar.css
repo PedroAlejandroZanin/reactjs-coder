@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    list-style: none;
+    padding: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
